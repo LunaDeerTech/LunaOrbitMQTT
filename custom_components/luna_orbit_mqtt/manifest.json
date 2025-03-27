@@ -1,0 +1,13 @@
+{
+  "domain": "luna_orbit_mqtt",
+  "name": "Luna Orbit MQTT",
+  "codeowners": ["@LunaDeerTech"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/luna_orbit_mqtt",
+  "integration_type": "hub",
+  "iot_class": "local_push",
+  "quality_scale": "bronze",
+  "requirements": [],
+  "single_config_entry": true
+}
