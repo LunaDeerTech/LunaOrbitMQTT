@@ -1,0 +1,5 @@
+{
+    "name": "Luna Orbit MQTT",
+    "homeassistant": "2024.12.4",
+    "hacs": "1.34.0"
+}
